@@ -12,11 +12,11 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 👋 Hi, I’m @angeltried
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @angeltried a fan of Github
+- 👀 I’m interested in growth
+- 🌱 I’m currently learning how to run the llc im employeed to. 
+- 💞️ I’m looking to collaborate maybe some skills
+- 📫 How to reach me angeltried@icloud.com
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Languages and Tools:
